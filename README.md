@@ -1,5 +1,5 @@
 # Class-Incremental Learning for Semantic Segmentation Re-Using Neither Old Data Nor Old Labels
-Marvin Klingner, Andreas Bär, Philipp Donn und Tim Fingscheidt
+Marvin Klingner, Andreas Bär, Philipp Donn and Tim Fingscheidt
 
 Link to our Paper: https://arxiv.org/abs/2005.06050
 
