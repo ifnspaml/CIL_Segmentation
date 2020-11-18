@@ -133,7 +133,7 @@ and evaluate them with the commands above.
 ## Other Datasets
 
 Of course our proposed method is compatible with other datasets and architectures. If you want to use other than the proposed Cityscapes dataset and ERFNet 
-please consider getting familiar with our <a href="">dataloader</a> *(Link to dataloader repo will follow once it is published)*
+please consider getting familiar with our <a href="https://github.com/ifnspaml/IFN_Dataloader">dataloader</a> *(Link to dataloader repo will follow once it is published)*
 
 ## License
 
